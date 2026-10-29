@@ -1,5 +1,9 @@
 # BlockLens
 
+> A block explorer and indexing prototype that turns transfer events into wallet-centric activity views.
+
+![BlockLens](assets/logo.svg)
+
 Small TypeScript block indexer model: normalize blocks, build address activity views, and query transfers.
 
 ```bash
